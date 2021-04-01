@@ -1,4 +1,4 @@
 # Assignment9
 Java Assignment 9
 
-Projectis located in master branch
+Project is located in master branch
